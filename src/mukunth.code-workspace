@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Harish kumar/mukunth"
+		},
+		{
+			"path": "C:/Users/Harish kumar/myapp"
+		},
+		{
+			"path": "C:/Users/Harish kumar/Desktop/sem"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sem"
+	}
+}
